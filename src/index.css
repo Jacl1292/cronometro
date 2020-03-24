@@ -1,0 +1,22 @@
+body {
+    background-color: #bcbcbc;
+}
+
+#reloj div div{
+    margin-top: 25px;
+    height:70px;
+font-size: 50px;
+background-color:red;
+}
+#reloj div i{
+    padding-top: 10px;
+    margin-top: 25px;
+    height:70px;
+font-size: 50px;
+background-color:red;
+}
+#reloj div {
+    margin-top: 25px;
+    height:120px;
+    background-color:black;
+    }
